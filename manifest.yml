@@ -1,0 +1,5 @@
+applications:
+- name: my-logstash
+  memory: 2G
+services:
+  - my-elasticsearch

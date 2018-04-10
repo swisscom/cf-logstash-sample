@@ -1,0 +1,5 @@
+logstash-credentials:
+  username: USERNAME
+  password: PASSWORD
+config-templates:
+- name: cf-input-http
