@@ -1,3 +1,4 @@
+buildpack: https://github.com/swisscom/logstash-buildpack
 applications:
 - name: my-logstash
   memory: 2G
